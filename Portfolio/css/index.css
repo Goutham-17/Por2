@@ -194,7 +194,6 @@ img{
 
 .shadow-effect:hover{
     box-shadow: -6px 5px 0px 1px var(--color-brand);
-    transform: scaleY(1.1);
 }
 
 .shadow-effect1{
